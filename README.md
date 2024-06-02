@@ -28,10 +28,10 @@ This project implements a gesture-controlled car using Arduino Uno, Nano, Blueto
 
 ## Setup
 ### Car Circuit
-![Car Circuit Diagram](path_to_car_circuit_diagram)
+![Car Circuit Diagram](Circuits/Reciever.png)
 
 ### Glove Circuit
-![Glove Circuit Diagram](path_to_glove_circuit_diagram)
+![Glove Circuit Diagram](Circuits/Transmitter.png)
 
 ## Installation
 1. **Libraries**: Install `MPU6050` and ensure `Wire` library is included.
